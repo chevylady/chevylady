@@ -1,16 +1,31 @@
-Hi I'm Claudia and welcome to my repo!
+# Welcome to my profile!
 
-Since last year I have learnt some new tools for me like Vue 3, Nuxt, and more and still I am improving skills by building websites - wondering how can I do it better from project to project?
-From CSS libraries I use Bootstrp, Bulma and Tailwind. However my favourite is Bootstrap (Don't ask me why :D)
+Hi I'm Claudia!
 
-I am self-taught, taking online courses and writting code. I am aware that I do not have the experience of older colleagues, but I will!
-I really like when my code immediately becomes a real picture of my work that's why I choose frontend. 
-However I am taking steps into backend to build full web aplication. I use some php scripts on hostings and carefully move with Node.js online course.
+## About me
+As a self-taught developer, I am dedicated to continuous growth through online courses and hands-on coding. While I may lack the experience of seasoned professionals, I am committed to bridging that gap.
+I am still improving my skills by building websites - wondering how can I do it better from project to project?
 
-On websites which I build I am using php + mySQL databases.
+## Why Frontend?
+I enjoy seeing my code come to life as a visual representation of my work. This gives me a huge satisfaction. However, I am also diving into backend development to create fully functional web applications.
 
-- 📫 How to reach me ...? I have built my profile website www.gibekdev.pl - I encourage you to visit ! :)
-⚡ Fun fact: I like american muscle cars that's why Camaro is on my avatar :))))
+## Technologies
+Since about 1,5 year, I have been expanding my skill set in web development, particularly focusing on tools like Vue 3 and Nuxt. From CSS libraries I use Bootstrp, Bulma and Tailwind.
+I have begun from scratch - HTML, CSS(BEM, SASS), Java Script. While learning along the way, I acquired basic knowledge about repositories, consoles, and how websites operate on the web. Soon I have started to use VUE 3 and my journey with framework has begun. 
+
+## Work with client
+
+During projects like www.studiowarto.pl I had a great chance to get know how hosting and backend works. This was not so easy project as my client is blind so he was very grateful for the offer to create a schedule for him and the option to book online. So I created a database in mySQL and connected it with PHP scripts (this was my first usage of PHP ever). Then I wrote all code for booking and possibility to send confirmation via email and set changes to database. The entire design of the website was consulted with the client to ensure it was in line with his expectations. This experience was really important for me.
+
+Next project for client is the Arthemore Official Website - I am currently improving previous code and consult design with client.
+
+## How to Reach Me
+
+Want to connect? Visit my profile website at www.gibekdev.pl. I look forward to hearing from you!
+
+##⚡ Fun fact
+
+I like american muscle cars that's why Camaro is on my avatar :))))
 
 
 
