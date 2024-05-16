@@ -15,7 +15,7 @@ I have begun from scratch - HTML, CSS(BEM, SASS), Java Script. While learning al
 
 ## Work with client
 
-During projects like www.studiowarto.pl I had a great chance to get know how hosting and backend works. This was not so easy project as my client is blind so he was very grateful for the offer to create a schedule for him and the option to book online. So I created a database in mySQL and connected it with PHP scripts (this was my first usage of PHP ever). Then I wrote all code for booking and possibility to send confirmation via email and set changes to database. The entire design of the website was consulted with the client to ensure it was in line with his expectations. This experience was really important for me.
+During projects like www.studiowarto.pl I had a great chance to get know how hosting and backend works. Client was very grateful for the offer to create a schedule for him and the option to book online not only via phone. So I created a database in mySQL and connected it with PHP scripts (this was my first usage of PHP ever). Then I wrote all code for booking and possibility to send confirmation via email and set changes to database. The entire design of the website was consulted with the client to ensure it was in line with his expectations. This experience was really important for me.
 
 Next project for client is the Arthemore Official Website - I am currently improving previous code and consult design with client.
 
